@@ -2,15 +2,15 @@ module.exports = {
   title: `Jongseung.link`,
   description: `Blog posted about ...`,
   author: `sa96125`,
-  introduction: `I explain with words and code. I explain with words and code. I explain with words and code.`,
+  introduction: `Kinda Java Spring Boot Full Stack React & Cloud Developer`,
   siteUrl: `https://jongseung.link`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
-    github: ``, // Your GitHub account
+    github: `https://github.com/sa96125`, // Your GitHub account
     medium: ``, // Your Medium account
     facebook: ``, // Your Facebook account
     linkedin: ``, // Your LinkedIn account
-    instagram: ``, // Your Instagram account
+    instagram: `https://www.instagram.com/jake.1989yaaaaa/`, // Your Instagram account
   },
   icon: `content/assets/felog.png`, // Add your favicon
   keywords: [`blog`],
