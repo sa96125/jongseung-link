@@ -2,7 +2,7 @@ module.exports = {
   title: `Jongseung.link`,
   description: `Blog posted about ...`,
   author: `sa96125`,
-  introduction: `Kinda Java Spring Boot Full Stack React & Cloud Developer`,
+  introduction: `Kinda Java Spring Boot Full Stack React & Cloud Developer. Project @Stim Leader.`,
   siteUrl: `https://jongseung.link`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
