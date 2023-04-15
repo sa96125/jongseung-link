@@ -1,13 +1,13 @@
 // app
-$theme-gradient: linear-gradient(72deg, #291e95, #cc007a);
-$top-header-text-color: #fff;
+$theme-gradient: linear-gradient(72deg, #2d2d2c, #c70310);
+$top-header-text-color: black;
 
 /**
  * @light theme
  */
 
 // body
-$light-background-color: #fff;
+$light-background-color: rgb(255, 255, 255);
 $light-text-shadow: 0 0 0.1px rgba(0, 0, 0, 0.3);
 $light-hover-text-shadow: 0 0 6px rgba(0, 0, 0, 0.2);
 
