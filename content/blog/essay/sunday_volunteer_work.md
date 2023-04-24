@@ -9,7 +9,7 @@ draft: false
 
 </br>
 
-정말 가끔은 혼자서 활동적인 걸 하고 싶은데 이번이 그런 날이었던 것 같아요.사실, 날씨가 너무 화창해서 그런지 노트북을 확 접어버리고 싶더라구요. 그래서 이왕 나가서 뭘 한다면 조금 의미있는 일을 하고 싶어서 찾아보다가, 지난 일요일에 유기견 봉사활동에 참여하고 왔어요 :)
+정말 가끔은 혼자서 활동적인 걸 하고 싶은데 이번이 그런 날이었던 것 같아요. 사실, 날씨가 너무 화창해서 그런지 노트북을 확 반대로 접어버리고 싶더라구요. 그래서 이왕 나가서 뭘 한다면 조금 의미있는 일을 하고 싶어서 찾아보다가, 지난 일요일에 유기견 봉사활동에 참여하고 왔어요 :)
 
 </br>
 </br>
@@ -19,3 +19,23 @@ draft: false
 ## <strong>`참여 계기`</strong><br/>
 
 (작성중..)
+
+![](./image/sunday_volunteer_work/002.jpeg)
+
+![](./image/sunday_volunteer_work/001.jpeg)
+
+![](./image/sunday_volunteer_work/006.jpeg)
+
+![](./image/sunday_volunteer_work/008.jpeg)
+
+![](./image/sunday_volunteer_work/003.jpeg)
+
+![](./image/sunday_volunteer_work/004.jpeg)
+
+![](./image/sunday_volunteer_work/005.jpeg)
+
+![](./image/sunday_volunteer_work/007.jpeg)
+
+![](./image/sunday_volunteer_work/009.jpeg)
+
+
