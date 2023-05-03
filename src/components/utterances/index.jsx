@@ -5,7 +5,7 @@ import { THEME } from '../../constants'
 
 const src = 'https://utteranc.es/client.js'
 const branch = 'master'
-const DARK_THEME = 'photon-dark'
+const DARK_THEME = 'github-light'
 const LIGHT_THEME = 'github-light'
 
 export const Utterances = ({ repo }) => {
@@ -16,7 +16,7 @@ export const Utterances = ({ repo }) => {
     const utterances = document.createElement('script')
     const utterancesConfig = {
       src,
-      repo,
+      repo: "sa96125/jongseung-link",
       branch,
       theme: isDarkTheme ? DARK_THEME : LIGHT_THEME,
       label: 'comment',
